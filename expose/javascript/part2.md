@@ -33,3 +33,4 @@
   F. true - Boolean(2) returns true and when compared to the boolean true it returns true.
 15. The difference between == and === is the former will type cast or change to match the comparison. The latter will do a strict comparison without type conversion.
 17. The result should be [2, 4, 6]. This is because the function doSomething is multiplying each value in the array by 2. This is then part of af unction call of modifyArray, in which all of those multiplied elements are put into a new array.
+19. The code prints out 1, 4, 3, 2, because there is an interval before 3 and 2 are outputted.
